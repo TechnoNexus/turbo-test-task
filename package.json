@@ -1,0 +1,17 @@
+{
+  "name": "turbotest_take_home",
+  "version": "1.0.0",
+  "description": "Welcome to the TurboTest take home assignment for our [QA Engineer](https://wellfound.com/l/2ABh8v) role! Complete the questions below and send [akshay@turbotest.ai](mailto:akshay@turbotest.ai)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.39.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^20.8.9"
+  }
+}
