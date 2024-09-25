@@ -1,4 +1,4 @@
-# Code for extracting data from Stack Overflow using Playwright."
+# Code for extracting data from Stack Overflow using Playwright
 
 ## Steps to run
 
